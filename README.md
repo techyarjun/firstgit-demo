@@ -1,3 +1,3 @@
 # firstgit-demo
 This is my first Git Repository.
-Author- Arjun Ingole(Code)
+Author- Arjun (Code)
